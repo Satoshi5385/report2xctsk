@@ -1,0 +1,2 @@
+# report2xctsk
+タスクレポートの"Task definition"からXC_Track用のタスクファイルを生成するプログラム
